@@ -1,5 +1,15 @@
 A mock site of our keyless car business idea for CSC 375 class at UVIC (no svelte..at least not yet)
 
+## Architecture
+
+| Category          | Solution   |
+|-------------------|------------|
+| Hosting           | Vercel    |
+| Frontend          | AstroJS |
+| Rendering         | MPA |
+| CMS               | none   |
+| Methodology       | ???  |
+
 # Astro Starter Kit: Blog
 
 Before running the build, do an install:
