@@ -1,17 +1,18 @@
 A mock site of our keyless car business idea for CSC 375 class at UVIC (no svelte..at least not yet)
 
-
 # Astro Starter Kit: Blog
+
 Before running the build, do an install:
+
 ```sh
 bun install
 ```
 
 Then, to run the build do (which does a `astro build` then a `astro dev` in bun)
+
 ```sh
 bun run start
 ```
-
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
