@@ -1,11 +1,5 @@
 A mock site of our keyless car business idea for CSC 375 class at UVIC (no svelte..at least not yet)
 
-<<<<<<< HEAD
-=======
-Make sure to download the AstroJS VS Code Extension too (to help with formatting. This is optional)
-
-
->>>>>>> refs/remotes/origin/main
 # Astro Starter Kit: Blog
 
 Before running the build, do an install:
