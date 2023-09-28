@@ -2,10 +2,16 @@ A mock site of our keyless car business idea for CSC 375 class at UVIC
 
 
 # Astro Starter Kit: Blog
-
+Before running the build, do an install:
 ```sh
-npm create astro@latest -- --template blog
+bun install
 ```
+
+Then, to run the build do (which does a `astro build` then a `astro dev` in bun)
+```sh
+bun run start
+```
+
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
@@ -55,12 +61,12 @@ All commands are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `bun install`             | Installs dependencies                            |
+| `bun run dev`             | Starts local dev server at `localhost:4321`      |
+| `bun run build`           | Build your production site to `./dist/`          |
+| `bun run preview`         | Preview your build locally, before deploying     |
+| `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `bun run astro -- --help` | Get help using the Astro CLI                     |
 
 ## 👀 Want to learn more?
 
