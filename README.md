@@ -1,4 +1,4 @@
-A mock site of our keyless car business idea for CSC 375 class at UVIC
+A mock site of our keyless car business idea for CSC 375 class at UVIC (no svelte..at least not yet)
 
 
 # Astro Starter Kit: Blog
