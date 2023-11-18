@@ -40,7 +40,8 @@ const posts = (await getCollection('blog')).sort(
 				text-align: center;
 			}
 			ul li:first-child img {
-				width: 70%;
+				width: 50%;
+				border-radius: 12px;
 			}
 			ul li:first-child .title {
 				font-size: 2.369rem;
@@ -48,6 +49,8 @@ const posts = (await getCollection('blog')).sort(
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+				width: max-content;
 			}
 			ul li a {
 				display: block;
