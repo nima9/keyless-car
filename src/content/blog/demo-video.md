@@ -22,12 +22,12 @@ heroImage: "/app.jpg"
   }
   
   video {
-    width: 100%;
+    width: 110%;
   }
 </style>
 
 <div class="center-content">
-    <video class="my-video" controls allowfullscreen>
+    <video controls allowfullscreen>
       <source src="/demo.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
