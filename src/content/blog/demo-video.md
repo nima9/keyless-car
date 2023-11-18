@@ -27,10 +27,10 @@ heroImage: "/app.jpg"
 </style>
 
 <div class="center-content">
-    <video class="my-video" controls>
-    <source src="/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+    <video class="my-video" controls allowfullscreen>
+      <source src="/demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 
   A Demo Video demonstrating a prototype of the Keyless-Car app
 </div>
