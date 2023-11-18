@@ -7,7 +7,7 @@ heroImage: "/app.jpg"
 ---
 <style>
   .hero-image {
-    max-width: 70%;
+    max-width: 60%;
     height: auto;
     align-items: center;
     margin: auto; /* Add this line to center the image */
@@ -22,7 +22,7 @@ heroImage: "/app.jpg"
   }
 
   .my-video {
-    max-width: 120%;
+    max-width: 200%;
   }
 </style>
 
