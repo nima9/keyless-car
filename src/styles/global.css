@@ -130,6 +130,36 @@ hr {
   body {
     font-size: 18px;
   }
+  .hero-image img {
+    max-width: 100%;
+    border-radius: 12px;
+  }
+  .hero-image {
+    margin-bottom: 1em;
+  }
+
+  ul li:first-child img {
+    max-width: 100%;
+    border-radius: 12px;
+  }
+
+
+  header, footer {
+    padding: 0.5em; /* reduce padding to make header less thick */
+    text-align: center;
+    font-size: 0.8em; /* reduce font size to make text smaller */
+  }
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+
+  h2 {
+    font-size: 1.75em;
+    margin-bottom: 0.5em;
+  }
+
   main {
     padding: 1em;
   }
